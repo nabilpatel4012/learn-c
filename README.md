@@ -12,7 +12,7 @@ This will help Student to understand the concepts of C very easily.
 ##### Just fork or clone the repository and use it as you want. You can check the code 
 ![fork](https://user-images.githubusercontent.com/80565100/152637786-84f7697b-5523-4d47-bc35-621ffc6170e5.png)
 #### 
-##### Clone the repository by heading to the 'Clone or Download' button and Download the Zip or clone the repository using git command
+##### Clone the repository by heading to the 'Code' button and Download the Zip or clone the repository using git command
 ####
 
 ![download png](https://user-images.githubusercontent.com/80565100/152638224-91713f3f-9281-4d5b-82f9-475ec1d7b0fe.svg)
