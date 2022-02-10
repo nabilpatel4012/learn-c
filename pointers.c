@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main()
 {
-	
 	int a = 75;
 	printf("The value of a is %d\n", a);
 	int* ptra = &a;
