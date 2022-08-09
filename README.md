@@ -28,7 +28,7 @@ git clone https://github.com/nabilpatel4012/learn-c
 - Fork the repository.
 - Clone ``` git clone https://github.com/nabilpatel4012/learn-c ``` or Download the Zip.
 - Make Code changes or Documentation (README.md) changes.
-- Add new branch if neccessary ``` git branch <branch-name> ``` and Push the Code changes.
+- Add new branch if neccessary ``` git checkout <branch-name> ``` and Push the Code changes.
 - Generate new 'Pull request'.
 - Briefly specify the changes you have made and submit the request.
 
